@@ -6,12 +6,13 @@
 
 <p align="center">
   <strong>Uma plataforma colaborativa para integrar todos os campi do IFRN.</strong><br>
-  Desenvolvido por estudantes do Curso Técnico em Informática — IFRN Campus Apodi.
+  Desenvolvido por estudantes do Curso Técnico em Informática — IFRN Campus Apodi.<br>
+  <a href="https://siif.site/" target="_blank"><strong>🔗 Acessar Sistema SIIF</strong></a>
 </p>
 
 ---
 
-## 📌 **Visão Geral**
+## 📌 **Sobre o Projeto**
 
 O **SIIF (Sistema de Interação do Instituto Federal)** é uma plataforma web desenvolvida com o objetivo de **unificar a comunicação**, **fortalecer a colaboração** e **aproximar estudantes, docentes e servidores** dos diversos campi do IFRN.
 
@@ -95,6 +96,7 @@ Preencher a lacuna deixada pelo SUAP no quesito **interação social**, proporci
 Construído com foco em:
 
 - Acessibilidade (WCAG)
+- Compatibilidade com o VLibras
 - Interface limpa e responsiva
 - Navegação intuitiva
 - Identidade visual institucional verde IFRN
@@ -111,12 +113,14 @@ As telas desenvolvidas incluem:
 
 ---
 
-## 🖼️ **Galeria — Algumas Imagens do Sistema**
+## 🖼️ **Galeria — Algumas Imagens do Sistema (Protótipos)**
 
-<p align="center"> <strong>Tela de Login</strong><br><br> <img src="https://github.com/user-attachments/assets/e5f46895-c925-47cc-8520-53e5b09ed054" width="800"> </p>
-<p align="center"> <strong>Tela inicial</strong><br><br> <img src="https://github.com/user-attachments/assets/57cbf1df-013f-4afe-97cc-7da20778dcbc" width="800"> </p>
-<p align="center"> <strong>Tela Materiais</strong><br><br> <img src="https://github.com/user-attachments/assets/5fe6d66e-6043-4b8f-afd8-7c14b66d4d5c" width="800"> </p>
-<p align="center"> <strong>Tela Mapa Multicampi</strong><br><br> <img src="https://github.com/user-attachments/assets/decc4eb1-ebfd-4693-a74c-bea6a090edfa" width="800"> </p>
+<p align="center"> <strong>Tela de Login</strong><br><br> <img src="https://github.com/user-attachments/assets/e5f46895-c925-47cc-8520-53e5b09ed054" width="400"> </p>
+<p align="center"> <strong>Tela inicial</strong><br><br> <img src="https://github.com/user-attachments/assets/57cbf1df-013f-4afe-97cc-7da20778dcbc" width="400"> </p>
+<p align="center"> <strong>Tela de Fóruns</strong><br><br> <img src="https://github.com/user-attachments/assets/2b1266e2-e0e3-49b7-92dd-8ef3bcc06d88" width="400"> </p>
+<p align="center"> <strong>Tela Divulgação</strong><br><br> <img src="https://github.com/user-attachments/assets/a7fd13d8-c84e-4453-8113-039c56e69d94" width="400"> </p>
+<p align="center"> <strong>Tela Materiais</strong><br><br> <img src="https://github.com/user-attachments/assets/5fe6d66e-6043-4b8f-afd8-7c14b66d4d5c" width="400"> </p>
+<p align="center"> <strong>Tela Mapa dos Campi</strong><br><br> <img src="https://github.com/user-attachments/assets/e5da97ef-9dcc-41ec-9619-363e0b3db15b" width="400"> </p>
 
 ---
 
