@@ -1,1 +1,141 @@
+# 🏫 **SIIF — Sistema de Interação do Instituto Federal**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c4111bf-ce10-48e8-ab76-dfee878109b1" width="260" alt="Logo SIIF">
+</p>
+
+<p align="center">
+  <strong>Uma plataforma colaborativa para integrar todos os campi do IFRN.</strong><br>
+  Desenvolvido por estudantes do Curso Técnico em Informática — IFRN Campus Apodi.
+</p>
+
+---
+
+## 📌 **Visão Geral**
+
+O **SIIF (Sistema de Interação do Instituto Federal)** é uma plataforma web desenvolvida com o objetivo de **unificar a comunicação**, **fortalecer a colaboração** e **aproximar estudantes, docentes e servidores** dos diversos campi do IFRN.
+
+O sistema funciona como um **fórum acadêmico/social**, inspirado em redes de microblogging, oferecendo ferramentas para interação, compartilhamento de conteúdos e acompanhamento de eventos institucionais.
+
+---
+
+## 🚀 **Acesse Agora**
+
+🔗 **Plataforma Online:** https://siif.site/  
+🌐 Disponível 24h, hospedada e integrada para toda a comunidade acadêmica.
+
+---
+
+## 🧩 **Funcionalidades Principais**
+
+### 🗨️ **1. Fórum de Interação Social**
+- Criação de postagens e discussões.
+- Comentários em tempo real.
+- Interações entre campi distintos.
+- Criação de comunidades e temas de debate.
+
+### 📚 **2. Repositório Colaborativo de Materiais**
+- Upload e compartilhamento de PDFs, slides, atividades, listas e documentos acadêmicos.
+- Organização por **curso**, **disciplina** e **campus**.
+- Funcionamento como uma “biblioteca colaborativa do IFRN”.
+
+### 📰 **3. Central de Notícias e Eventos**
+- Notificações de seminários, olimpíadas e ações institucionais.
+- Atualizações oficiais dos campi.
+- Destaques acadêmicos e científicos.
+
+### 🗺️ **4. Mapa Interativo Multicampi**
+- Exibição georreferenciada dos campi do IFRN.
+- Informações rápidas sobre localização, estrutura e acessos.
+
+### 👤 **5. Perfis de Usuário Personalizados**
+- Histórico de interações.
+- Áreas de interesse.
+- Identificação acadêmica e social na plataforma.
+
+---
+
+## 🏛️ **Objetivo do Projeto**
+
+Preencher a lacuna deixada pelo SUAP no quesito **interação social**, proporcionando:
+
+- Integração entre os campi do IFRN;
+- Aumento do engajamento acadêmico;
+- Facilitação do compartilhamento de materiais;
+- Espaço digital unificado para comunicação institucional.
+
+---
+
+## 🛠️ **Tecnologias Utilizadas**
+
+### **Frontend**
+- HTML5  
+- CSS3  
+- JavaScript  
+- Figma (design e prototipagem)
+- Bootstrap Icons
+- Jinja2 (Template Engine)
+
+### **Backend**
+- Flask (Python)  
+- SQLAlchemy (ORM do banco de dados) 
+- Sqlite3 (Banco de dados)
+- Werkzeug (Segurança de arquivos)
+- TheFuzz (Para a pesquisa "fuzzy")
+
+### **Metodologia**
+- Scrum  
+- Modelo Spotify (Squads, Tribos, Chapters)  
+- Entregas incrementais e integração contínua
+
+---
+
+## 🧪 **Design e Experiência do Usuário**
+
+Construído com foco em:
+
+- Acessibilidade (WCAG)
+- Interface limpa e responsiva
+- Navegação intuitiva
+- Identidade visual institucional verde IFRN
+- Protótipos criados no Figma
+
+As telas desenvolvidas incluem:
+
+- Login  
+- Feed de divulgações  
+- Fórum  
+- Repositório  
+- Mapa multicampi  
+- Central de Suporte  
+
+---
+
+## 🖼️ **Galeria — Imagens do Sistema**
+> *Substitua as URLs pelas imagens do seu repositório ou GitHub Assets*
+
+<p align="center">
+  <img src="URL_DA_IMAGEM_AQUI" width="700">
+</p>
+
+<p align="center">
+  <img src="URL_DA_IMAGEM_AQUI" width="700">
+</p>
+
+<p align="center">
+  <img src="URL_DA_IMAGEM_AQUI" width="700">
+</p>
+
+---
+
+## ✅ **Finalização**
+
+O **SIIF** representa um marco no fortalecimento da comunicação interna do IFRN, reunindo alunos, servidores e campi em um único ambiente digital moderno, acessível e colaborativo.  
+
+Este projeto é fruto do esforço conjunto de estudantes dedicados, que acreditam na tecnologia como ferramenta de integração, inovação e transformação social dentro do Instituto Federal.
+
+Caso deseje contribuir, sugerir melhorias ou participar do desenvolvimento, a comunidade está sempre aberta para novas ideias e colaborações.
+
+---
+
+<p align="center"><strong>“Conectando pessoas, aproximando ideias e fortalecendo o IFRN.”</strong></p>
