@@ -1,7 +1,7 @@
 # 🏫 **SIIF — Sistema de Interação do Instituto Federal**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4c4111bf-ce10-48e8-ab76-dfee878109b1" width="260" alt="Logo SIIF">
+  <img src="https://github.com/user-attachments/assets/8d9163c5-59fb-4260-ae75-be2e9d8a5abd" width="700">
 </p>
 
 <p align="center">
