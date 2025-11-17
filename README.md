@@ -111,20 +111,12 @@ As telas desenvolvidas incluem:
 
 ---
 
-## 🖼️ **Galeria — Imagens do Sistema**
-> *Substitua as URLs pelas imagens do seu repositório ou GitHub Assets*
+## 🖼️ **Galeria — Algumas Imagens do Sistema**
 
-<p align="center">
-  <img src="URL_DA_IMAGEM_AQUI" width="700">
-</p>
-
-<p align="center">
-  <img src="URL_DA_IMAGEM_AQUI" width="700">
-</p>
-
-<p align="center">
-  <img src="URL_DA_IMAGEM_AQUI" width="700">
-</p>
+<p align="center"> <strong>Tela de Login</strong><br><br> <img src="https://github.com/user-attachments/assets/e5f46895-c925-47cc-8520-53e5b09ed054" width="800"> </p>
+<p align="center"> <strong>Tela inicial</strong><br><br> <img src="https://github.com/user-attachments/assets/57cbf1df-013f-4afe-97cc-7da20778dcbc" width="800"> </p>
+<p align="center"> <strong>Tela Materiais</strong><br><br> <img src="https://github.com/user-attachments/assets/5fe6d66e-6043-4b8f-afd8-7c14b66d4d5c" width="800"> </p>
+<p align="center"> <strong>Tela Mapa Multicampi</strong><br><br> <img src="https://github.com/user-attachments/assets/decc4eb1-ebfd-4693-a74c-bea6a090edfa" width="800"> </p>
 
 ---
 
